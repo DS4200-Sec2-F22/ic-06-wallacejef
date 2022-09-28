@@ -1,0 +1,12 @@
+body {
+    font-family: Arial;
+}
+
+#frame {
+    width: 500px;
+    height: 500px;
+}
+
+rect {
+    fill: darkblue;
+}
